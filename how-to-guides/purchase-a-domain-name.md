@@ -8,7 +8,7 @@ description: >-
 
 ## The Process
 
-Purchasing and setting up your own domain is a very simple process that takes about 15 minutes. The below guide will help you do this with [https://www.namecheap.com](https://www.namecheap.com) as this is our recommend domain registrar.
+Purchasing and setting up your own domain is a very simple process that takes about 15 minutes. The below guide will help you do this with [https://www.namecheap.com](https://www.namecheap.com) as this is our recommended domain registrar.
 
 1. Visit the Namecheap website at [https://www.namecheap.com](https://www.namecheap.com)
 2. Use the domain name search box at the center of the page to look for a domain name

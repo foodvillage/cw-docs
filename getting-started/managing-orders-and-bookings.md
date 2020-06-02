@@ -1,8 +1,8 @@
 ---
 description: >-
-  Once the orders begin coming in, you need to be ready to fulfill them. As
-  such, it's important that understand the order management workflow for
-  everything to operate smoothly.
+  Once the orders begin coming in, you need to be ready to fulfil them. As such,
+  it's important that understand the order management workflow for everything to
+  operate smoothly.
 ---
 
 # Managing Orders & Bookings
@@ -27,7 +27,7 @@ There are several key features of the order management interfaces:
 
 ### **Board View**
 
-![Board view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_1l3lo9y.png)
+![Order Dashboard](../.gitbook/assets/foodvillage-order-board-view-1080.png)
 
 The board view is fantastic for actually managing orders in real-time. Orders flow from left to right along the different status columns.
 
@@ -35,7 +35,7 @@ In the board view, the **due** time is the time when the customer will be coming
 
 ### **List View**
 
-![List view](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_11088vc.png)
+![Order List View](../.gitbook/assets/foodvillage-order-list-view.png)
 
 The list view provides you with an overview of your latest orders 10, 25, 50 or 100 orders. This view is perfect for filtering through orders and searching for specific ones. It is not well suited to actively managing orders.
 
@@ -43,7 +43,7 @@ The list view provides you with an overview of your latest orders 10, 25, 50 or 
 
 Once you select an order, you will see a popup showing you the details of your order.
 
-![](https://storage.crisp.chat/users/helpdesk/website/e903fdb8557a9800/image_8eby9d.png)
+![](../.gitbook/assets/foodvillage-order-popup.png)
 
 Here you are able to do the following functions
 
