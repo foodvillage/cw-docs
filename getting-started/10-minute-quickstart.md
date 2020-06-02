@@ -6,8 +6,6 @@ description: >-
 
 # 10-Minute Quickstart
 
-{% embed url="https://youtu.be/Cd171XS0IGI" caption="Quickstart video tutorial" %}
-
 ## Quick-start Steps
 
 1. After subscribing to your account a link to the admin login page will be emailed to your with your login information. Do allow up to half a business day for this email.
