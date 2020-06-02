@@ -18,33 +18,31 @@ description: How to guide to print with a network printer
 
 ![](../.gitbook/assets/untitled-2%20%285%29.png)
 
-### 4. If your printer is not showing use these instructions to set it up [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
-
-### 5. To test that the printer is working, please press Print Test Page
+### 4. To test that the printer is working, please press Print Test Page
 
 ![](../.gitbook/assets/untitled-3%20%281%29.png)
 
-### 6. If the test page does not print. Then please connect and install the printer correctly. Please see : [Printer Set up](https://www.notion.so/cloudwaitresswiki/Printing-Add-a-printer-18689e4654fe4978b20aeb82b581d81e).
+### 5. If the test page does not print. Then please connect and install the printer correctly. 
 
-### 7. Open the PushPrinter for Windows program application
+### 6. Open the PushPrinter for Windows program application
 
-### 8. Go to the 'settings' cog and select the default or CloudWaitress provider profile from the dropdown list.
+### 7. Go to the 'settings' cog and select the default or FoodVillage provider profile from the dropdown list.
 
 ![](../.gitbook/assets/untitled-4%20%282%29.png)
 
-### 9. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
+### 8. Enable 'Automatically start PushPrinter'. \(This allows the application to auto-start when resetting your machine\).
 
-![](../.gitbook/assets/automatically-start-pushprinter.png)
+![](../.gitbook/assets/automatically-start-pushprinter%20%281%29.png)
 
-### 10. Press the printer button
+### 9. Press the printer button
 
 ![](../.gitbook/assets/untitled-6.png)
 
-### **11.** Using the Create Printer button, create printer
+### **10.** Using the Create Printer button, create printer
 
 ![](../.gitbook/assets/untitled-7%20%284%29.png)
 
-### 12. Add settings including API key from the printer just created.
+### 11. Add settings including API key from the printer just created.
 
 For network printer: Name the printer. Add API printer \(found in store printer settings\), set number of copies, add printer IP address and set port to 9100\).
 
@@ -53,9 +51,9 @@ For network printer: Name the printer. Add API printer \(found in store printer 
 {% hint style="danger" %}
 **NOTE:**
 
-**Printer name** - This is the name that the printer will show inside of CloudWaitress.
+**Printer name** - This is the name that the printer will show inside of FoodVillage.
 
-**API Key** - This needs to be copied from the printer settings inside of CloudWaitress.
+**API Key** - This needs to be copied from the printer settings inside of FoodVillage.
 
 **Number of copies** - This will determine how many copies of the are printed.
 
@@ -64,11 +62,11 @@ For network printer: Name the printer. Add API printer \(found in store printer 
 **Windows Share Printer Name** - This must match EXACTLY the shared printer name that was added before. You should avoid spaces and special characters.
 {% endhint %}
 
-### 13. Test print
+### 12. Test print
 
-### 14. Create printer
+### 13. Create printer
 
-### 15. Go to your store and place a test order.
+### 14. Go to your store and place a test order.
 
 \*\*\*\*
 

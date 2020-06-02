@@ -24,7 +24,7 @@ If your DNS settings have taken effect, it will indicate the SSL certificate has
 | A Record | www / order / anything | 35.238.2 .132 |
 
 {% hint style="info" %}
-The host value is the subdomain of your domain that your customer will need to visit to access the site. If the host value is "order" and your domain is "business.com", then your store URL will be "order.business.com"
+The host value is the subdomain of your domain that your customer will need to visit to access the site. If the host value is "order" and your domain is "yourdomain.com", then your store URL will be "order.yourdomain.com". For multiple stores, consider using the location name. Example: nyqueens.yourdomain.com or nybrooklyn.yourdomain.com.
 {% endhint %}
 
 {% hint style="warning" %}

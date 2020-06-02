@@ -25,5 +25,5 @@
   * [Setup Facebook Ordering](how-to-guides/setup-facebook-ordering.md)
 * [Platform Information](platform-information/README.md)
   * [Customer Accounts](platform-information/customer-accounts.md)
-  * [Your Subscription & Billing](platform-information/your-subscription-and-billing.md)
+  * [Your Subscription](platform-information/your-subscription-and-billing.md)
 

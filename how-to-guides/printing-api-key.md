@@ -4,7 +4,7 @@ description: How to setup your API key
 
 # Printing - API Key
 
-## 1. Login to your FooVillage account at [https://admin.foodvillage.menu/](https://admin.foodvillage.menu/) and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
+## 1. Login to your FoodVillage account at [https://admin.foodvillage.menu/](https://admin.foodvillage.menu/) and go to Settings&gt;System&gt;Receipt Printing&gt;Create Printer.
 
 ![](../.gitbook/assets/1-create-printer.png)
 
