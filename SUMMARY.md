@@ -9,6 +9,7 @@
   * [Customize Your Design](getting-started/customize-your-design.md)
   * [Managing Orders & Bookings](getting-started/managing-orders-and-bookings.md)
   * [Promoting Your Store](getting-started/promoting-your-store.md)
+  * [Inventory Management](getting-started/inventory-management.md)
 * [How To Guides](how-to-guides/README.md)
   * [Setup Printing For Windows](how-to-guides/setup-printing-for-windows.md)
   * [Setup Printing For Android](how-to-guides/setup-printing-for-android.md)
